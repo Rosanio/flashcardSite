@@ -1,3 +1,5 @@
+/*No need for so many classes, just need "hidden" and "showing"*/
+
 $(function() {
   $(".zero").click(function() {
     $(".hidden0").toggle();

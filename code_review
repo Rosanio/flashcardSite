@@ -1,0 +1,28 @@
+
+Is the Github documentation - commits and README - thorough and descriptive?
+
+Should probably commit more often, commit descriptions could have more detail.
+
+Is the code easy to read (good indentation, spacing, naming)?
+
+Code is easy to read, indentation is excellent. A couple of nitpicks: the 
+elements in the head tags should be on the same indentation, and you can 
+reduce your hidden0, hidden1, etc classes to a single class and apply css 
+and jquery to all of them. Other than that, looks good.
+
+Were jQuery effects used for user interaction?
+
+jQuery looks good, no complaints
+
+Is the web page(s) styled using Bootstrap and CSS?
+
+Styling looks good too, love the push button!
+
+Is the site user-friendly?
+
+Yes
+
+Do you have any additional constructive criticism or positive feedback to share?
+
+Everything looks good, thumbs up for responsive design. Just remember to 
+commit more often.
