@@ -1,3 +1,76 @@
+html {
+  background-color: grey;
+}
+
 h1 {
   color: red;
+}
+
+.hidden0, .hidden1, .hidden2, .hidden3, .hidden4, .hidden5, .hidden6  {
+  display: none;
+}
+
+.zero, .one, .two, .three, .four, .five, .six {
+  list-style-type: none;
+  background-image: url("img/background1.png");
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.buttonShow {
+  box-shadow: 0 0 4px #000;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  color: black;
+}
+
+.buttonShow:hover {
+  box-shadow: 0 0 4px #000;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  color: white;
+}
+
+.buttonHide {
+  box-shadow: 0 0 4px #fff;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  color: black;
+}
+
+.buttonHide:hover {
+  box-shadow: 0 0 4px #fff;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  color: white;
+}
+
+.scriptTest {
+  color: green;
+}
+
+span {
+  color: blue;
+  font-size: 14px;
 }
